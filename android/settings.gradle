@@ -1,0 +1,3 @@
+rootProject.name = 'rncirclessh1_89'
+
+include ':app'
